@@ -38,20 +38,25 @@ I aim to continuously develop my skills and contribute to impactful projects in 
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </p>
 
+### 🔧 Other Tools and Skills:
+<p align="center">
+  <img src="https://img.shields.io/badge/Quixel%20Bridge-FF7A00?style=for-the-badge&logo=quixel&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Game%20Development-0077B5?style=for-the-badge&logo=unity&logoColor=white">
+</p>
+
 ---
 
 ## 🎓 Education
 ### **University of Westminster**
 - 📚 Bachelor of Science - **BS, Computer Science** (2023 - 2027)
-- 💡 Skills: **Web Development**, **Unreal Engine**, **Spring Boot**, **Python**, **Game Development**, **Object-Oriented Programming**, **Quixel Bridge**, **Java**
 
 ### **ESOFT Metro Campus**
 - 📚 Diploma in Education - **Computer Software Engineering** (2020 - 2021)
-- 💡 Skills: **Object-Oriented Programming**, **Java**
 
 ### **S. Thomas' College, Mount Lavinia**
 - 🏫 High School (2009 - 2022)
-- 💡 Skills: **Event Photography**, **Wildlife Photography**, **Leadership**
 
 ---
 
@@ -65,10 +70,27 @@ I aim to continuously develop my skills and contribute to impactful projects in 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashminaFdo&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashminaFdo&layout=compact&theme=radical" width="350">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RashminaFdo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
+</p>
+
+### 🏅 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RashminaFdo&theme=radical&row=1&column=7">
+</p>
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RashminaFdo&theme=radical">
+</p>
+
+---
+
+## 🌟 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RashminaFdo&style=for-the-badge&color=blueviolet&label=Visitors">
 </p>
 
 ---
@@ -83,4 +105,4 @@ I aim to continuously develop my skills and contribute to impactful projects in 
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=20&fontAlignY=45)
