@@ -83,8 +83,12 @@ I aim to continuously develop my skills and contribute to impactful projects in 
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RashminaFdo&theme=radical">
+  <a href="https://github.com/RashminaFdo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashminaFdo&theme=github-dark&hide_border=true" alt="RashminaFdo's Contribution Graph" />
+  </a>
 </p>
+
+
 
 ---
 
