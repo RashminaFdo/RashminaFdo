@@ -70,6 +70,11 @@ I aim to continuously develop my skills and contribute to impactful projects in 
 
 ---
 
+## 🌐 Portfolio
+**Check out my portfolio here**: [Rashmina Fernando's Portfolio](https://rashminafdo.github.io/Portfolio/)
+
+---
+
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashminaFdo&show_icons=true&theme=radical" width="400">
@@ -87,8 +92,6 @@ I aim to continuously develop my skills and contribute to impactful projects in 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashminaFdo&theme=github-dark&hide_border=true" alt="RashminaFdo's Contribution Graph" />
   </a>
 </p>
-
-
 
 ---
 
