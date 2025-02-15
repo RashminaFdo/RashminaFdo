@@ -1,19 +1,19 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Rashmina%20Fernando%20👋&fontSize=40&fontAlignY=35)
 
 # 🌟 About Me
-Hi! I’m Rashmina Fernando, a **Computer Science undergraduate** at the Informatics Institute of Technology (IIT) in collaboration with the **University of Westminster**. I am passionate about exploring new technologies and enhancing my skills in software development and problem-solving.
+Hi! I’m Rashmina Fernando, a **Computer Science undergraduate** at the Informatics Institute of Technology (IIT) in collaboration with the **University of Westminster**. I am passionate about exploring new technologies, developing innovative solutions, and enhancing my skills in software development.
 
 ### 💡 Key Strengths:
-- Proficient in **object-oriented programming**, **web development**, and modern technologies like **JavaScript** and **Python**.
-- Strong background in **game development** and **robotics** as part of my academic studies.
-- Skilled in collaborating and problem-solving within teams to achieve common goals.
-- Always eager to learn and adapt to emerging trends in the **tech industry**.
+- **Full-stack web development**, **AI integration**, and **browser extensions**.
+- Strong background in **game development**, **robotics**, and **team collaboration**.
+- Passionate about building **smart solutions** to improve productivity and efficiency.
+- Constantly learning and adapting to new trends in the **tech industry**.
 
-### 🌟 What Drives Me:
-I enjoy applying my technical knowledge to create practical solutions and streamline processes. My academic journey has given me exposure to diverse fields, further fueling my interest in **innovation and technology**.
+### 🌍 What Drives Me:
+I love solving problems with **technology** and **creativity**. From developing **intelligent chatbots** to creating **efficient web tools**, my focus is on crafting solutions that make a real impact.
 
-### 📈 My Goals:
-I aim to continuously develop my skills and contribute to impactful projects in the tech industry, fostering growth and making a meaningful difference.
+### 🚀 My Goals:
+I aim to push the boundaries of **software engineering**, contribute to **open-source projects**, and collaborate on **innovative applications** that redefine user experiences.
 
 ---
 
@@ -34,17 +34,37 @@ I aim to continuously develop my skills and contribute to impactful projects in 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </p>
 
 ### 🔧 Other Tools and Skills:
 <p align="center">
-  <img src="https://img.shields.io/badge/Quixel%20Bridge-FF7A00?style=for-the-badge&logo=quixel&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Game%20Development-0077B5?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 [CeyEdu](https://rashminafdo.github.io/ceyedu/#/)
+**An AI-powered education platform to simplify university learning.**
+- **Features:** AI chatbot (Mistral-7B), text summarization, secure Firebase authentication.
+- **Technologies:** LLMs, React.js, Firebase, TailwindCSS, GitHub.
+
+### 🎨 [WTFShade](https://rashminafdo.github.io/wtfshade/)
+**A modern browser extension for effortless color management.**
+- **Features:** HEX, RGB, and HSL color pickers, quick copy function, usage history tracking.
+- **Technologies:** JavaScript, Chrome DevTools, TailwindCSS.
+
+### 📚 [StudyHive](https://www.linkedin.com/company/studyhive/)
+**A platform designed to enhance the academic experience of university students.**
+- **Features:** Collaborative tools, smarter task automation.
+- **Technologies:** Web Development, Large Language Models (LLMs).
 
 ---
 
@@ -107,7 +127,6 @@ I aim to continuously develop my skills and contribute to impactful projects in 
   <a href="https://www.linkedin.com/in/rashminafernando/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rashmina.fernando/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/RashminaFdo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.snapchat.com/add/rashminasaamuel"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
 </p>
 
 ---
