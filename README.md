@@ -1,19 +1,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Rashmina%20Fernando%20👋&fontSize=40&fontAlignY=35)
 
 # 🌟 About Me
-Hi! I’m Rashmina Fernando, a **Computer Science undergraduate** at the Informatics Institute of Technology (IIT) in collaboration with the **University of Westminster**. I am passionate about exploring new technologies, developing innovative solutions, and enhancing my skills in software development.
+Hi! I’m **Rashmina Fernando**, a **Computer Science undergraduate** at the Informatics Institute of Technology (IIT) in collaboration with the **University of Westminster**. I’m passionate about exploring new technologies, creating innovative solutions, and constantly improving my skills in software development.
 
 ### 💡 Key Strengths:
 - **Full-stack web development**, **AI integration**, and **browser extensions**.
 - Strong background in **game development**, **robotics**, and **team collaboration**.
-- Passionate about building **smart solutions** to improve productivity and efficiency.
-- Constantly learning and adapting to new trends in the **tech industry**.
-
-### 🌍 What Drives Me:
-I love solving problems with **technology** and **creativity**. From developing **intelligent chatbots** to creating **efficient web tools**, my focus is on crafting solutions that make a real impact.
+- Enthusiastic about building **smart solutions** to enhance productivity and efficiency.
+- Always learning and adapting to new trends in the **tech industry**.
 
 ### 🚀 My Goals:
-I aim to push the boundaries of **software engineering**, contribute to **open-source projects**, and collaborate on **innovative applications** that redefine user experiences.
+My ambition is to contribute to **open-source projects**, work on **cutting-edge applications**, and continue pushing the boundaries of **software engineering** to redefine user experiences and solve complex problems.
 
 ---
 
@@ -21,50 +18,60 @@ I aim to push the boundaries of **software engineering**, contribute to **open-s
 
 ### 🌐 Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML/CSS-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-### 🚀 Frameworks, Tools, and Platforms:
+### ⚡ Frameworks & Libraries:
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Intermediate-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Advanced-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled%20Components-Advanced-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-Advanced-5A29E1?style=for-the-badge&logo=axios&logoColor=white">
 </p>
 
-### 🔧 Other Tools and Skills:
+### 🗄️ Databases:
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Supabase-Intermediate-3E4B7B?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 
----
+### 🔧 Development Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor%20AI-Advanced-0F74A2?style=for-the-badge&logo=cursorai&logoColor=white">
+  <img src="https://img.shields.io/badge/Lovable-Proficient-F2A900?style=for-the-badge&logo=lovable&logoColor=white">
+</p>
 
-## 📂 Featured Projects
+### 🤖 AI Technologies:
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT--4%20/LLMs-Advanced-4C4C4C?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Intermediate-F0A1D8?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Certified-35C3F1?style=for-the-badge&logo=chatgpt&logoColor=white">
+</p>
 
-### 🎓 [CeyEdu](https://rashminafdo.github.io/ceyedu/#/)
-**An AI-powered education platform to simplify university learning.**
-- **Features:** AI chatbot (Mistral-7B), text summarization, secure Firebase authentication.
-- **Technologies:** LLMs, React.js, Firebase, TailwindCSS, GitHub.
+### 🎮 Game Development:
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Intermediate-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Fab%20Libraries-Proficient-8C8C8C?style=for-the-badge&logo=unrealengine&logoColor=white">
+</p>
 
-### 🎨 [WTFShade](https://rashminafdo.github.io/wtfshade/)
-**A modern browser extension for effortless color management.**
-- **Features:** HEX, RGB, and HSL color pickers, quick copy function, usage history tracking.
-- **Technologies:** JavaScript, Chrome DevTools, TailwindCSS.
+### 🎨 UI/UX Design:
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-Proficient-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-Advanced-38B2AC?style=for-the-badge&logo=canva&logoColor=white">
+</p>
 
-### 📚 [StudyHive](https://www.linkedin.com/company/studyhive/)
-**A platform designed to enhance the academic experience of university students.**
-- **Features:** Collaborative tools, smarter task automation.
-- **Technologies:** Web Development, Large Language Models (LLMs).
+### 🎬 Media Editing:
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-Intermediate-0078D4?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/After%20Effects-Intermediate-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-Advanced-F1C40F?style=for-the-badge&logo=capcut&logoColor=black">
+</p>
 
 ---
 
@@ -80,24 +87,14 @@ I aim to push the boundaries of **software engineering**, contribute to **open-s
 
 ---
 
-## 🏆 Licenses & Certifications
-- **Java: Advanced Concepts for High-Performance Development** (LinkedIn, Dec 2024)
-- **Learning Spring 6 with Spring Boot 3** (LinkedIn, Dec 2024)
-- **Spring Boot 2.0 Essential Training** (LinkedIn, Dec 2024)
-- **React Essential Training** (LinkedIn, Dec 2024)
-- **Figma Essential Training: The Basics** (LinkedIn, Nov 2024)
-- **Java Object-Oriented Programming** (LinkedIn, Nov 2024)
-
----
-
 ## 🌐 Portfolio
-**Check out my portfolio here**: [Rashmina Fernando's Portfolio](https://rashminafdo.github.io/Portfolio/)
+**Explore my full portfolio and personal projects**: [Rashmina Fernando's Portfolio](https://rashmina.site)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashminaFdo&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashminaFdo&show_icons=true&theme=radical&count_private=true" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RashminaFdo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
 </p>
 
